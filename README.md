@@ -17,6 +17,13 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
+Fundamental Analysis
+----------------
+
+Litecoin is a peer-to-peer (P2P) cryptocurrency developed in 2011, by Charlie Lee, a former google employee. The cryptocurrency was created based on the Bitcoin protocol. But it differs in terms of the hashing algorithm used, hard cap, block transaction times, and a few other factors. Litecoin was released via an open-source client on GitHub in the year 2011.
+
+The Platform is more accessible to people than [Bitcoin](https://markets.coinpedia.org/bitcoin/). Hence known as the “silver” of the crypto world whereas Bitcoin is referred to as the “gold” of the crypto world. It makes micro-transactions possibly quick and has a block time of just 2.5 minutes.
+
 License
 -------
 
