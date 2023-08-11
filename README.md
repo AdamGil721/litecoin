@@ -17,6 +17,18 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
+Fundamental Analysis of Litecoin?
+----------------
+
+Litecoin is a peer-to-peer cryptocurrency developed in 2011 as a Bitcoin alternative. 
+It was created based on the Bitcoin protocol but differs in terms of the hashing
+algorithm, block transaction times, and other factors. 
+
+Litecoin is often referred to as the “silver” of the crypto world, while Bitcoin 
+is known as the “gold.” Litecoin offers quicker transaction times, making
+micro-transactions more accessible, with a block time of just 2.5 minutes 
+compared to Bitcoin’s 10-minute block time. [litecoin](https://coinpedia.org/price-prediction/ltc-litecoin-price-prediction/).
+
 License
 -------
 
